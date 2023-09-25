@@ -29,5 +29,5 @@ The Java Email Client is a project developed to learn and apply design patterns 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/java-email-client.git
+   git clone [https://github.com/your-username/java-email-client.git](https://github.com/Aravinda-HWK/Email_Client.git)https://github.com/Aravinda-HWK/Email_Client.git
    cd java-email-client
